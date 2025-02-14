@@ -1,0 +1,8 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWaVK8ZBzv--Nzn0RavlMK9MiM4MDAGeTJ4TJrS0coabr8jukLV7sO48L3XLDAgFxL24&usqp=CAU);
+  background-size: cover;
+}
+
+a:active{
+  color: rgb(0, 255, 221);
+}
