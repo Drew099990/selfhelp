@@ -1,4 +1,4 @@
-{ "homepage": "http//Drew099990.github.io/my-personal-canvas",
+{ "homepage": "http//Drew099990.github.io/selfhelp",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "my-personal-canvas -d build"
+    "deploy": "selfhelp -d build"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
