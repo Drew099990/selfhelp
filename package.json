@@ -1,6 +1,6 @@
-{ "homepage": "http//Drew099990.github.io",
-  "name": "selfhelp",
-  "private": false,
+{ "homepage": "http//Drew099990.github.io/selfhelp",
+  "name": "portfolio",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "Drew099990.github.io -d build"
+    "deploy": "selfhelp -d build"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
