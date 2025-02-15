@@ -1,6 +1,6 @@
 { "homepage": "http//Drew099990.github.io",
-  "name": "portfolio",
-  "private": true,
+  "name": "selfhelp",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
